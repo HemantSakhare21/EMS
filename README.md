@@ -129,20 +129,6 @@ at our Contribution guidelines
 
 
 
-### License
-
-MIT Licensed (Check
-[here]())
-
-
-<table>
-  <tr>
-   
-  </tr>
-  <tr>
-   
-  </tr>
-</table>
 
 
 
