@@ -1,4 +1,3 @@
-![examination-management-system](https://socialify.git.ci/alii13/examination-management-system/image?description=1&descriptionEditable=EMS%20using%20ReactJs%20(frontend)%20and%20Node%20js%20(backend)&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 # EMS - Examination Management System
 
@@ -76,13 +75,12 @@ Prerequisites For Running The Project Locally:
 To clone this repository run:
 
 ```sh
-$ git clone https://github.com/alii13/examination-management-system.git
+$ git clone https://github.com/HemantSakhare21/EMS.git
 ```
 
 Head inside the cloned folder and install the dependencies using NPM
 
 ```sh
-$ cd backend
 $ npm install
 ```
 
@@ -98,11 +96,7 @@ MONGODB_DATABASE_NAME =
 MONGODB_USERNAME = 
 MONGODB_PASSWORD = 
 ```
-[![](https://i.ibb.co/SR06H2S/image.png)]
 
-
-
-[![](https://i.ibb.co/m9cHftr/image.png)]
 
 To start the server run :
 
@@ -132,27 +126,15 @@ To contribute to this repository please first create an issue with the
 appropriate template, after which you can directly fork this repository,make
 changes and start a pull request to the master branch. Please also have a look
 at our Contribution guidelines
-[here](https://github.com/monizb/FireShort/blob/master/CONTRIBUTING.md)
 
-### Live Demo
 
-[![ems-gif.gif](https://s8.gifyu.com/images/ems-gif.gif)](https://gifyu.com/image/RYib)
-
-[https://ems-in.herokuapp.com](https://ems-in.herokuapp.com)
 
 ### License
 
 MIT Licensed (Check
 [here]())
 
-## Contributors ✨
 
-Thanks goes to these wonderful people
-([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
    
@@ -162,10 +144,6 @@ Thanks goes to these wonderful people
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the
-[all-contributors](https://github.com/all-contributors/all-contributors)
-specification. Contributions of any kind welcome!
+
+
